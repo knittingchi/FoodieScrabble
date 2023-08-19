@@ -1,3 +1,7 @@
+
+# First basic structure, def needs adjustments :)
+
+
 import random
 
 
